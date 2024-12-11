@@ -5,7 +5,7 @@ import keyboard
 import time
 
 SCALE_FACTOR = 1.5
-RESOLUTION = 5000
+RESOLUTION = 10000
 RADIUS = 4
 OFFSET = 9
 
